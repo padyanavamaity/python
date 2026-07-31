@@ -5,7 +5,7 @@ cost_unit = u*10
 if (u<= 100):
     amount = cost_unit + 100
     
-elif (u > 100 and u <= 200):
+elif (u <= 200):
     amount = cost_unit + 200
     
 else:

@@ -6,7 +6,7 @@ if (a>b and a>c):
     print(f"{a} is Greatest.")
     
 elif (b>a and b>c):
-    print(f"{c} is Greatest.")
+    print(f"{b} is Greatest.")
     
 else:
-    print(f"{b} is Greatest.")
+    print(f"{c} is Greatest.")
